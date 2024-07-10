@@ -39,6 +39,15 @@ AsyncStorage is used for persisting cart data locally on the device. This ensure
 * Fetch Cart Items: On app launch, the cart items are fetched from AsyncStorage to restore the cart state.
 
 # Screenshots
+![Screenshot (116)](https://github.com/Zheena26/rn-assignment7-11328068/assets/169994345/3ea3ebbd-e350-41fb-8843-7843ac8254d9)
+![Screenshot (117)](https://github.com/Zheena26/rn-assignment7-11328068/assets/169994345/c5c2b3ec-728c-48fc-bbe9-3243f9fd642b)
+![Screenshot (118)](https://github.com/Zheena26/rn-assignment7-11328068/a![Screenshot (119)](https://github.com/Zheena26/rn-assignment7-11328068/assets/169994345/3be008a2-fad9-427c-85c6-9ce000de0ad5)
+ssets/169994345/1fe47fe2-aa0f-4db9-953c-c8309877e75c)
+![Screenshot (120)](https://github.com/Zheena26/rn-assignment7-11328068/assets/169994345/730f54aa-4758-40ea-86e9-05173978ee59)
+![Screenshot (121)](https://github.com/Zheena26/rn-assignment7-11328068/assets/169994345/03a2dd05-4145-4b51-bf79-629d820227ca)
+![Screenshot (122)](https://github.com/Zheena26/rn-assignment7-11328068/assets/169994345/731818ef-4a4a-4412-9c51-40ac3f451d03)
+![Screenshot (123)](https://github.com/Zheena26/rn-assignment7-11328068/assets/169994345/4a8b1132-30fd-4dff-8fdd-c0b0b3dce70d)
+![Screenshot (124)](https://github.com/Zheena26/rn-assignment7-11328068/assets/169994345/7cd958b9-a23c-420f-9dcd-f5e9c93130a4)
 
 
 
